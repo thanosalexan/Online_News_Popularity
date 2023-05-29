@@ -1,1 +1,3 @@
 # Online_News_Popularity
+
+This project involves analyzing a dataset obtained from the popular website Mashable (www.mashable.com) to identify the factors contributing to the popularity and virality of posts. The dataset, collected on January 8, 2015, includes statistical information rather than original content. The primary focus is on the number of shares as a measure of post popularity. The project encompasses steps such as exploratory data analysis, model selection, model assumption checking, cross-validation, evaluation using a test dataset, comparison of different methods, selection of a final model, and parameter interpretation.
